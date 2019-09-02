@@ -23,6 +23,8 @@ Contents
 - record: save feature important picture
 - scripts: scripts to run processing or training
 
+download dataset:https://drive.google.com/drive/folders/18mkSsDDFjsneiOyxTBlXuoum-KVy6S4d?usp=sharing
+
 Instructions
 ------------
 Pretrained model is in /data/save_model.
